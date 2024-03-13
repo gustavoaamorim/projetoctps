@@ -16,5 +16,5 @@ Em relação a idade temos a maior concentração entre jovens na faixa de 14 a 
 
 Criado por: 
 - [Gustavo Amorim](https://github.com/gustavoaamorim)
-- [Victor Lemos](https://github.com/victorlemos1)
+- [João Victor Lemos](https://github.com/victorlemos1)
 - [Wellington Lopes](https://github.com/Wellington-lopes)
